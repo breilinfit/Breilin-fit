@@ -222,7 +222,8 @@ function PlansSection({ onNav }) {
                 </div>
               ))}
             </div>
-            <button className="btn-gold" onClick={() => window.open("https://wa.me/12015875717", "_blank")} style={{
+            <button className="btn-gold" onClick={() => window.open(https://wa.me/12015875717?text=Hola%20Breilin!%20Vi%20tu%20perfil%20y%20quiero%20información%20sobre%20tus%20planes%20de%20entrenamiento%20💪
+)} style={{
               width:"100%", padding:"13px", border:`1px solid ${plan.popular ? C.gold : C.glassBorder}`,
               background: plan.popular ? C.gold : "transparent",
               color: plan.popular ? C.navyDark : C.white,
